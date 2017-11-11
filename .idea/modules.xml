@@ -3,8 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MVC-MVP-MVVM.iml" filepath="$PROJECT_DIR$/MVC-MVP-MVVM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-binding/data-binding.iml" filepath="$PROJECT_DIR$/data-binding/data-binding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/github-mvp/github-mvp.iml" filepath="$PROJECT_DIR$/github-mvp/github-mvp.iml" />
       <module fileurl="file://$PROJECT_DIR$/mvc/mvc.iml" filepath="$PROJECT_DIR$/mvc/mvc.iml" />
       <module fileurl="file://$PROJECT_DIR$/mvp/mvp.iml" filepath="$PROJECT_DIR$/mvp/mvp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvvm/mvvm.iml" filepath="$PROJECT_DIR$/mvvm/mvvm.iml" />
     </modules>
   </component>
 </project>

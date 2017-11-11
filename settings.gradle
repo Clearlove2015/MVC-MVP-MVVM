@@ -1,1 +1,1 @@
-include ':mvc', ':mvp'
+include ':mvc', ':mvvm', ':github-mvp', ':mvp', ':data-binding'

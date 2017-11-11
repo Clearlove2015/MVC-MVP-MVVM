@@ -1,12 +1,12 @@
 package com.aron.mvp.view;
 
 /**
- * Created by zhucheng on 2017/11/9.
+ * Created by zhucheng on 2017/11/11.
+ * 抽取Activity的UI逻辑
  */
 
 public interface BaseView {
 
-    //弹出提示
-    void toast(String msg);
+    void showToast(String msg);
 
 }

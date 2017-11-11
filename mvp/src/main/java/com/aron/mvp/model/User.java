@@ -1,17 +1,17 @@
 package com.aron.mvp.model;
 
 /**
- * Created by zhucheng on 2017/11/9.
+ * Created by zhucheng on 2017/11/11.
  */
 
 public class User {
 
     private String name;
-    private String psw;
+    private String pwd;
 
-    public User(String name, String psw) {
+    public User(String name, String pwd) {
         this.name = name;
-        this.psw = psw;
+        this.pwd = pwd;
     }
 
     public String getName() {
@@ -22,11 +22,11 @@ public class User {
         this.name = name;
     }
 
-    public String getPsw() {
-        return psw;
+    public String getPwd() {
+        return pwd;
     }
 
-    public void setPsw(String psw) {
-        this.psw = psw;
+    public void setPwd(String pwd) {
+        this.pwd = pwd;
     }
 }
